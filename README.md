@@ -134,3 +134,7 @@ Created measures and visuals to highlight predicted churners
 <img width="1166" height="660" alt="Image" src="https://github.com/user-attachments/assets/b44522d5-55df-4423-9a54-3234a3965a58" />
 
 
+
+<img width="1164" height="661" alt="Image" src="https://github.com/user-attachments/assets/03ad18f7-a0e3-4a4f-ac05-2c53b8cce84d" />
+
+
