@@ -129,4 +129,8 @@ Created measures and visuals to highlight predicted churners
 
 -Enabled early churn detection with ML predictions.
 
+**📊Power BI Dashboard**
+
+<img width="1166" height="660" alt="Image" src="https://github.com/user-attachments/assets/b44522d5-55df-4423-9a54-3234a3965a58" />
+
 
